@@ -72,4 +72,3 @@ file_33=tile\effectlist2-c.xml
 md5_33=b764414546a0c923138cf785f0d3a032
 file_34=tile\SpellList.xml
 md5_34=643de464f5ce781bf7622252675e22fe
-解釋
