@@ -4,4 +4,4 @@ url=https://adamhuang5909.github.io/txt_storage/update.txt
 [list]
 ServerData0=testServer:127.0.0.1:2001:0:0:1
 ServerData1=virtual:127.0.0.1:2002:0:0:1
-ServerData2=tst:127.0.0.1:2003:0:0:1
+ServerData2=subnetServer:192.168.1.106:2001:0:0:1
