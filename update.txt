@@ -1,6 +1,6 @@
 [main]
 count=35
-url=http://lineage381.joyso.cloud/Login_test_815/update/
+url=https://adamhuang5909.github.io/txt_storage/update/
 [update]
 file_0=LinHelperZ.ini
 md5_0=4a643379648210744faa542083f783d3
