@@ -1,7 +1,11 @@
 [update]
 ver=1.0
 url=https://adamhuang5909.github.io/txt_storage/update.txt
+
 [list]
-ServerData0=testServer:127.0.0.1:2001:0:0:1
-ServerData1=virtual:127.0.0.1:2002:0:0:1
-ServerData2=subnetServer:192.168.1.106:2001:0:0:1
+ServerData0="lrJknsK9AyaeWMf1qDjUzvP2UWn0skJh2UA5Dmp+cIs="
+ServerData1="eyRGI7ji844xsdl9w1eKn9gFLJZY2w18+RBObDE9SYrwhxU6bjnne0RdDZixrbpjIVU1dhmwQuNQ00miuneUeg=="
+ServerData2=nobLuF59ez0mK2V89x54w9gJF1mpYp3OenKtVbblRWStkCN8EE+XE/uN3u6EdNZ5
+ServerData3="nobLuF59ez0mK2V89x54wxkmJ+StlAktUcEUsAsChQoIvNOXNaxjsTj/F7NVvF+4DMBO9oTJ0xXfhICNzVkTpw=="
+ServerData4=ttm6v0NNVO4VSqb1UTiMUWhTiNVqBuRKJIv16uDjr6HqaanUH7uLJ7MxCQTDv7RB
+ServerData5="mCYOUt3pjIdFDfuMkNqnV6/i87ZIqrEixadbJK79xZmfOW+QDVg2aAczhuCRU34v++DVYmxwensWgF5ATcoQxQ=="
